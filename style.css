@@ -1,0 +1,58 @@
+body {
+  background-image: url("achtergrond.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #9385ff;
+}
+
+h1 {
+  font-size: 80px;
+  text-align: center;
+}
+
+#demo {
+  font-size: 20px;
+  text-align: center;
+}
+
+.carousel {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+.invitation {
+  text-align: center;
+}
+
+.birthdaygirl {
+  margin-top: 25px;
+}
+
+.btn {
+  background-color: #b994ff;
+  color: #f0e6ef;
+  transition-duration: 0.4ms;
+  border-radius: 12px;
+}
+
+.btn:hover {
+  background-color: rgb(231, 119, 231);
+  color: beige;
+}
+
+.countdownTimer {
+  height: 30px;
+}
+
+.dropdown-menu {
+  background-color: #fefae0;
+  color: #9385ff;
+}
+
+.wishlist {
+  text-decoration: none;
+}
